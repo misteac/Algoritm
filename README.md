@@ -6,11 +6,10 @@
 2. Дерево. Особенности структуры. Сбалансированные деревья. Оценка сложности поиска.
 3. Алгоритм обхода (поиска) по дереву сбалансированному и несбалансированному
 
-Видео урока 
-https://www.youtube.com/watch?v=sd_7ahFiukY
+
 
 ## Обход дерева в гулбину
-Код дерева в глубину [Tree.java](https://github.com/ShumAhd/Lesson-4.-Data-structures-tree-and-hash-table/blob/main/Tree.java)
+Код дерева в глубину [Tree.java]
 
 Самым простым с точки зрения обхода, является обход в глубину. Это рекурсивный
 подход к перебору всех значений в дереве, построенный на вызове всех доступных
@@ -21,7 +20,7 @@ https://www.youtube.com/watch?v=sd_7ahFiukY
 требует слишком большого количества ресурсов на исполнение.
 
 ## Обход в ширину
-Код обхода в ширину [Width.java](https://github.com/ShumAhd/Lesson-4.-Data-structures-tree-and-hash-table/blob/main/Width.java)
+Код обхода в ширину [Width.java]
 
 Обход в ширину предполагает, что мы не обрабатываем детей до тех пор, пока все
 родителя одного уровня не были обработаны. Давайте рассмотрим пример, при
@@ -70,10 +69,8 @@ https://www.youtube.com/watch?v=sd_7ahFiukY
 
 ## Красно-Чёрное дерево
 
-[RedBlackTree.java](https://github.com/ShumAhd/Lesson-4.-Data-structures-tree-and-hash-table/blob/main/RedBlackTreeLesson4/RedBlackTree.java)
+[RedBlackTree.java]
 
 Код не рисует дерево в терминале, это к сожалению очень нетривиальная задача,
 по этому при запуске кода ни чего не произойдёт ))
 
----
-[Ссылка на сертификат об окончании курса лекции](https://gb.ru/go/kvFdW7)
